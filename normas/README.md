@@ -29,7 +29,7 @@ Boa parte das portarias antigas está hoje reunida em portarias de consolidaçã
 | [PRC GM/MS nº 2/2017](https://bvsms.saude.gov.br/bvs/saudelegis/gm/2017/prc0002_03_10_2017.html) | Causa externa na AIH desde 1998, pela Portaria nº 142/1997 (Anexo VII); acompanhante de pacientes com mais de 60 anos, 280/1999 (Anexo 2 do Anexo XI) |
 | [PRC GM/MS nº 1/2017](https://bvsms.saude.gov.br/bvs/saudelegis/gm/2017/prc0001_03_10_2017.html) | Alimentação dos bancos nacionais: 3.462/2010 (arts. 293 e seguintes) |
 
-Não aparecem nessas três: as normas de raça/cor e etnia (719/2007, 508/2010), a 1.134/2014 (CADSUS), as de UTI (298/2019, 1.202/2023, 3.511/2025), a 245/2020, a 389/2004, a 321/2007 e a 1.541/2007. A 389/2004 e a 321/2007 também não estão na PRC GM/MS nº 1/2017.
+Não aparecem nessas consolidações: as normas de raça/cor e etnia (719/2007, 508/2010), a 1.134/2014 (CADSUS), as de UTI (298/2019, 1.202/2023, 3.511/2025), a 245/2020, a 389/2004, a 321/2007 e a 1.541/2007. A 389/2004 e a 321/2007 também não estão na PRC GM/MS nº 1/2017.
 
 ## Como acrescentar uma norma
 
