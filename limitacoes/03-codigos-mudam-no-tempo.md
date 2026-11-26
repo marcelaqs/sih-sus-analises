@@ -12,7 +12,7 @@ Algumas tabelas de códigos foram trocadas ao longo dos anos, e o mesmo código 
 | `HOMONIMO` | Muda de sentido em ago/2015 (Nota Técnica SIHD2 nº 001/2015). |
 | `ESPEC` (especialidade do leito) | O 09 era psiquiatria em hospital-dia em 2007; hoje é leito-dia cirúrgico. |
 
-## Por que importa para predição
+## Por que importa na análise
 
 - Um desfecho ou preditor definido com uma tabela única fica errado para parte dos anos.
 - Modelos treinados em um período e aplicados em outro podem estar usando códigos com sentidos diferentes.

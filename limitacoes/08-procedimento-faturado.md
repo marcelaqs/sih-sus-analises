@@ -6,7 +6,7 @@
 
 `PROC_REA` registra o procedimento principal cobrado na AIH, não todos os procedimentos feitos. Procedimentos especiais e secundários ficam em outros arquivos (por exemplo, o arquivo SP do SIH).
 
-## Por que importa para predição
+## Por que importa na análise
 
 Critérios de gravidade baseados em procedimentos (como histerectomia, transfusão ou laparotomia em morbidade materna grave) ficam subestimados se buscados só no `PROC_REA`.
 

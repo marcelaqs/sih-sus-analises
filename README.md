@@ -1,10 +1,10 @@
-# sih-predicao-sus
+# sih-sus-analises
 
-Considerações sobre o SIH/SUS para modelos preditivos: campos, códigos e normas.
+Limitações do SIH/SUS para análises: campos, códigos e normas.
 
-O Sistema de Informações Hospitalares (SIH/SUS) é uma base de faturamento. Vários campos registram o que foi cobrado, não o que aconteceu com a paciente, e alguns códigos mudaram de sentido ao longo dos anos. Para quem desenvolve modelos preditivos, isso gera erros silenciosos: variáveis que parecem informativas, mas medem outra coisa, e vazamento de informação entre treino e teste.
+O Sistema de Informações Hospitalares (SIH/SUS) é uma base de faturamento. Vários campos registram o que foi cobrado, não o que aconteceu com a paciente, e alguns códigos mudaram de sentido ao longo dos anos. Isso gera erros silenciosos em qualquer análise: indicadores que mudam por causa de uma regra e não da realidade, variáveis que parecem informativas, mas medem outra coisa, e, em modelos preditivos, vazamento de informação entre treino e teste.
 
-Este repositório reúne essas limitações, com a fonte oficial de cada uma, como base para o artigo sobre o uso do SIH em predição no SUS.
+Este repositório reúne essas limitações, com a fonte oficial de cada uma, como base para análises com o SIH, incluindo o artigo sobre o uso do SIH em predição no SUS.
 
 **Status:** em construção (nov/2026).
 
@@ -12,7 +12,7 @@ Este repositório reúne essas limitações, com a fonte oficial de cada uma, co
 
 | Pasta | O que tem |
 | --- | --- |
-| [`limitacoes/`](limitacoes/) | Uma nota por limitação: campo, período, por que importa para predição, como lidar e fonte |
+| [`limitacoes/`](limitacoes/) | Uma nota por limitação: campo, período, por que importa na análise, como lidar e fonte |
 | [`normas/`](normas/) | Portarias e notas técnicas citadas, com link oficial e SHA-256 da cópia local |
 | [`referencias/`](referencias/) | Manuais, leiautes, dicionários e fontes secundárias |
 
@@ -39,7 +39,7 @@ Este repositório reúne essas limitações, com a fonte oficial de cada uma, co
 
 ## Relação com o omnisus
 
-Parte destas limitações foi identificada na revisão do dicionário do SIH no [omnisus](https://github.com/raphaelfh/omnisus), feita com a Letícia. As correções do dicionário seguem por pull request no omnisus; aqui ficam as consequências para a análise preditiva.
+Parte destas limitações foi identificada na revisão do dicionário do SIH no [omnisus](https://github.com/raphaelfh/omnisus), feita com a Letícia. As correções do dicionário seguem por pull request no omnisus; aqui ficam as consequências para quem analisa os dados.
 
 ## Autoria
 

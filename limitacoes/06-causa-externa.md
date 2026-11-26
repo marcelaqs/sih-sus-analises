@@ -8,7 +8,7 @@ Em internações por lesões e envenenamentos (capítulo XIX da CID-10), o diagn
 
 O caráter de atendimento também tem códigos para acidentes e lesões (03 a 06), definidos pela Portaria SAS/MS nº 719/2007, art. 4º. Na conferência de arquivos de São Paulo (revisão do omnisus), esses códigos só aparecem com diagnóstico principal S ou T, mas a maioria das AIH com S ou T traz caráter 01 (eletivo) ou 02 (urgência).
 
-## Por que importa para predição
+## Por que importa na análise
 
 Desfechos ou preditores ligados a violência, acidentes e outras causas externas não aparecem no diagnóstico principal. Buscar só no `DIAG_PRINC` subestima esses casos, o que pesa em estudos sobre violência contra a mulher.
 
