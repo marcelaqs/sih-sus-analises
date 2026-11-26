@@ -19,24 +19,28 @@ Links e SHA-256 do registro de fontes do [omnisus](https://github.com/marcelaqs/
 
 No portal SIHD (FTP do DATASUS; navegadores atuais não abrem links FTP, ver abaixo).
 
-| Edição | Arquivo |
-| --- | --- |
-| jan/2017 | [MANUAL_SIH_janeiro_2017.pdf](ftp://ftp2.datasus.gov.br/public/sistemas/dsweb/SIHD/Manuais/MANUAL_SIH_janeiro_2017.pdf) |
-| jan/2015 | [MANUAL_SIH_janeiro_2015.pdf](ftp://ftp2.datasus.gov.br/public/sistemas/dsweb/SIHD/Manuais/MANUAL_SIH_janeiro_2015.pdf) |
-| out/2013 | [MANUAL_SIH_outubro_2013.pdf](ftp://ftp2.datasus.gov.br/public/sistemas/dsweb/SIHD/Manuais/MANUAL_SIH_outubro_2013.pdf) |
-| set/2013 | [MANUAL_SIH_setembro_2013_29_08_13.pdf](ftp://ftp2.datasus.gov.br/public/sistemas/dsweb/SIHD/Manuais/MANUAL_SIH_setembro_2013_29_08_13.pdf) |
-| set/2012 | [MANUAL_SIH_SETEMBRO_2012_VERSAO_DIA_30_09_12.pdf](ftp://ftp2.datasus.gov.br/public/sistemas/dsweb/SIHD/Manuais/MANUAL_SIH_SETEMBRO_2012_VERSAO_DIA_30_09_12.pdf) |
-| abr/2011 | [Manual_SIH_Abril_2011.pdf](ftp://ftp2.datasus.gov.br/public/sistemas/dsweb/SIHD/Manuais/Manual_SIH_Abril_2011.pdf) |
-| set/2010 | [MANUAL_SIH_SETEMBRO_2010.pdf](ftp://ftp2.datasus.gov.br/public/sistemas/dsweb/SIHD/Manuais/MANUAL_SIH_SETEMBRO_2010.pdf) |
-| mai/2010 | [MANUAL_SIH_MAIO_2010.pdf](ftp://ftp2.datasus.gov.br/public/sistemas/dsweb/SIHD/Manuais/MANUAL_SIH_MAIO_2010.pdf) |
-| jun/2009 | [Manual_SIH_Junho_2009.pdf](ftp://ftp2.datasus.gov.br/public/sistemas/dsweb/SIHD/Manuais/Manual_SIH_Junho_2009.pdf) |
+| Edição | Arquivo | SHA-256 (início) |
+| --- | --- | --- |
+| jan/2017 | [MANUAL_SIH_janeiro_2017.pdf](ftp://ftp2.datasus.gov.br/public/sistemas/dsweb/SIHD/Manuais/MANUAL_SIH_janeiro_2017.pdf) | `b51eb51dde1d` |
+| jan/2015 | [MANUAL_SIH_janeiro_2015.pdf](ftp://ftp2.datasus.gov.br/public/sistemas/dsweb/SIHD/Manuais/MANUAL_SIH_janeiro_2015.pdf) | `823fdf5f399c` |
+| out/2013 | [MANUAL_SIH_outubro_2013.pdf](ftp://ftp2.datasus.gov.br/public/sistemas/dsweb/SIHD/Manuais/MANUAL_SIH_outubro_2013.pdf) | `eefbca863a00` |
+| set/2013 | [MANUAL_SIH_setembro_2013_29_08_13.pdf](ftp://ftp2.datasus.gov.br/public/sistemas/dsweb/SIHD/Manuais/MANUAL_SIH_setembro_2013_29_08_13.pdf) | `40e17f06dcfd` |
+| set/2012 | [MANUAL_SIH_SETEMBRO_2012_VERSAO_DIA_30_09_12.pdf](ftp://ftp2.datasus.gov.br/public/sistemas/dsweb/SIHD/Manuais/MANUAL_SIH_SETEMBRO_2012_VERSAO_DIA_30_09_12.pdf) | `7429b011ee2a` |
+| abr/2011 | [Manual_SIH_Abril_2011.pdf](ftp://ftp2.datasus.gov.br/public/sistemas/dsweb/SIHD/Manuais/Manual_SIH_Abril_2011.pdf) | `93e0aa04a36f` |
+| set/2010 | [MANUAL_SIH_SETEMBRO_2010.pdf](ftp://ftp2.datasus.gov.br/public/sistemas/dsweb/SIHD/Manuais/MANUAL_SIH_SETEMBRO_2010.pdf) | `59622f977ec1` |
+| mai/2010 | [MANUAL_SIH_MAIO_2010.pdf](ftp://ftp2.datasus.gov.br/public/sistemas/dsweb/SIHD/Manuais/MANUAL_SIH_MAIO_2010.pdf) | `06bb7ea993e4` |
+| jun/2009 | [Manual_SIH_Junho_2009.pdf](ftp://ftp2.datasus.gov.br/public/sistemas/dsweb/SIHD/Manuais/Manual_SIH_Junho_2009.pdf) | `4aefa3f420a5` |
 
-Para baixar no Windows, use o PowerShell: `curl.exe -O <link>`.
+Hashes calculados em 26/11/2026. A edição de set/2012 é a mesma cópia publicada na BVS-MS (mesmo SHA-256). Para baixar no Windows, use o PowerShell: `curl.exe -O <link>`.
 
 Também usados na revisão, ainda sem link registrado:
 
 - DATASUS. *Informe Técnico SIH/SUS* 2012-03.
-- Ministério da Saúde, DENASUS. *Auditoria no SUS: noções básicas sobre sistemas de informação*. 2004.
+
+### DENASUS
+
+- Ministério da Saúde, Departamento Nacional de Auditoria do SUS (DENASUS). *Auditoria no SUS: noções básicas sobre sistemas de informação*. 2. ed. rev. Brasília: Ministério da Saúde; 2004. 112 p. (Série A. Normas e Manuais Técnicos). BVS-MS, em duas partes: [parte 1](https://bvsms.saude.gov.br/bvs/publicacoes/auditoria_sus2004_1.pdf) e [parte 2](https://bvsms.saude.gov.br/bvs/publicacoes/auditoria_sus2004_2.pdf).
+- Ministério da Saúde, DenaSUS. *Manual de Auditoria Interna do SUS*. 1. ed. Brasília: Ministério da Saúde; 2026. ISBN 978-65-5993-997-8. [PDF](https://www.gov.br/saude/pt-br/composicao/denasus/publicacoes/manual-de-auditoria-interna-do-sus.pdf/@@download/file). Governança, riscos e controles internos na auditoria do SUS.
 
 ## Secundárias
 

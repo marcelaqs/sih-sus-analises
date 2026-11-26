@@ -12,7 +12,8 @@ A tabela [`normas.csv`](normas.csv) tem uma linha por norma:
 | `situacao` | Vigente, alterada ou revogada |
 | `alterada_por` | `id` da norma que alterou ou revogou esta |
 | `link_oficial` | Endereço no Saúde Legis (BVS-MS) ou outra fonte oficial |
-| `sha256` | Hash do documento no link, lido em 24/11/2026; mostra exatamente qual versão foi usada |
+| `arquivo_local` | Cópia em [`pdf/`](pdf/), quando houver |
+| `sha256` | Hash do documento (do link ou da cópia local), lido entre 24 e 26/11/2026; mostra exatamente qual versão foi usada |
 | `limitacoes` | Números das limitações que usam a norma |
 
 Os links e os hashes vêm do registro de fontes da revisão do SIH no [omnisus](https://github.com/marcelaqs/omnisus) (`src/omnisus/data/dicionarios/sources/registry.json`), onde cada documento foi baixado e conferido. Linhas sem link ainda não têm cópia registrada.
