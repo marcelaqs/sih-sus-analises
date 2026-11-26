@@ -13,6 +13,9 @@ dados/
 *.parquet
 *.csv.gz
 
+# Downloads grandes (manuais, pacotes do FTP): ficam só com link e hash em referencias/
+*.zip
+
 # Sistema
 .DS_Store
 Thumbs.db
