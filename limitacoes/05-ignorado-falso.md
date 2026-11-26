@@ -9,7 +9,7 @@ Várias tabelas CNV do DATASUS começam com uma linha que cobre todos os código
 - **Etnia:** o campo existe desde a competência out/2010 e só é exigido para raça/cor indígena (Portaria SAS/MS nº 508/2010). O código 0000 vem em quase todas as AIH, inclusive de pacientes não indígenas. Rotulado como "não informado", ele faz qualquer medida de completude da etnia sair errada.
 - **Sexo:** o leiaute oficial do RD define 1 = masculino e 3 = feminino. O 2 não tem documentação, mas o TabWin o rotula como feminino.
 
-## Por que importa na análise
+## Por que importa na análise epidemiológica
 
 - Completude calculada sobre rótulos expandidos não descreve a qualidade real do campo.
 - Categorias "ignorado" artificiais entram no modelo como se fossem informação.

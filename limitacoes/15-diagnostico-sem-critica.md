@@ -6,7 +6,7 @@
 
 Desde jan/2015, o sistema deixou de criticar a compatibilidade entre o procedimento realizado e os diagnósticos registrados na AIH (Portaria SAS/MS nº 1.324/2014, art. 4º). A mesma portaria passou a definir o diagnóstico principal como o motivo principal da internação, estabelecido após estudo, que pode ser diferente do diagnóstico de admissão.
 
-## Por que importa na análise
+## Por que importa na análise epidemiológica
 
 - A relação entre diagnóstico e procedimento pode mudar de padrão em 2015, por mudança de regra e não de perfil das internações.
 - Um modelo que usa diagnóstico e procedimento juntos, treinado com dados de antes e depois de 2015, mistura dois regimes de registro.

@@ -6,7 +6,7 @@
 
 Nas internações obstétricas, esses campos vêm praticamente sempre zerados ou vazios, embora os nomes sugiram informações úteis (transfusão, cuidado intermediário, infecção hospitalar, gestação de risco, número de filhos).
 
-## Por que importa na análise
+## Por que importa na análise epidemiológica
 
 - Um campo constante não contribui para o modelo e pode passar despercebido numa seleção automática de variáveis.
 - Pela descrição, parecem preditores clínicos importantes, mas não podem ser usados.

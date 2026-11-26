@@ -9,7 +9,7 @@
 - **2014:** a partir de nov/2014, pela Portaria SAS/MS nº 1.134/2014, quando a AIH traz o Cartão Nacional de Saúde, os dados cadastrais vêm do CADSUS e não podem ser alterados na AIH. A raça/cor pode vir do cadastro, e não de uma pergunta feita na internação.
 - **2023:** a partir da competência abr/2023, o SIH não aceita mais raça/cor 99 (sem informação). Internações anteriores apresentadas depois ainda podem trazer o 99.
 
-## Por que importa na análise
+## Por que importa na análise epidemiológica
 
 - A queda da proporção sem informação ao longo do tempo é, em parte, efeito de regra, não de melhora do registro.
 - Um modelo treinado antes de 2023 e aplicado depois encontra a categoria 99 vazia.

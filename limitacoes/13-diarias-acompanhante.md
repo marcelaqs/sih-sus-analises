@@ -8,7 +8,7 @@
 
 A cobrança de diárias de acompanhante na AIH também vale para pacientes com mais de 60 anos internados (Portaria GM/MS nº 280/1999, hoje Anexo 2 do Anexo XI da Portaria de Consolidação GM/MS nº 2/2017). Um `DIAR_ACOM` maior que zero não indica parto.
 
-## Por que importa na análise
+## Por que importa na análise epidemiológica
 
 Um `DIAR_ACOM` igual a zero não mostra que a mulher ficou sem acompanhante. Usar o campo como indicador de direito garantido, ou como preditor de qualidade da assistência ao parto, mede a cobrança, e não a presença.
 

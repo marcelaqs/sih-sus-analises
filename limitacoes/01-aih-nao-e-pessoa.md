@@ -8,7 +8,7 @@ Cada linha do arquivo RD é uma AIH, que é um documento de cobrança. Uma mesma
 
 Desde a competência ago/2015, o SIHD2 bloqueia AIH do mesmo CNS com internações sobrepostas ou com intervalo de até 3 dias, e o bloqueio de homônimos passa a valer só para AIH sem CNS (Nota Técnica SIHD2 nº 001/2015). A regra de duplicidade muda, então, no meio da série.
 
-## Por que importa na análise
+## Por que importa na análise epidemiológica
 
 - O número de linhas não é o número de internações nem de pessoas.
 - AIH da mesma internação ou da mesma pessoa podem cair uma no treino e outra no teste, o que infla o desempenho do modelo (vazamento).

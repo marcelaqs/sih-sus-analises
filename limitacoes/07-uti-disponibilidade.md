@@ -6,7 +6,7 @@
 
 Os campos de UTI registram diárias de UTI cobradas. Só há cobrança quando o hospital tem leito de UTI habilitado no SUS e disponível. Por isso, esses campos refletem a estrutura do hospital tanto quanto a gravidade da paciente.
 
-## Por que importa na análise
+## Por que importa na análise epidemiológica
 
 - Usar a UTI como marcador de gravidade (por exemplo, para morbidade materna grave) classifica de forma diferente mulheres igualmente graves em hospitais com e sem UTI.
 - Como preditor, a UTI carrega informação sobre o hospital e a região, e pode piorar o desempenho do modelo justamente onde há menos leitos.

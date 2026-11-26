@@ -6,7 +6,7 @@
 
 `QT_DIARIAS` conta as diárias cobradas, que incluem o último dia quando o motivo de saída é permanência, óbito ou transferência. Nesses casos, costuma ser `DIAS_PERM` + 1.
 
-## Por que importa na análise
+## Por que importa na análise epidemiológica
 
 O tempo de permanência é desfecho e preditor frequente. Usar `QT_DIARIAS` superestima a permanência justamente nos óbitos e nas transferências, o que cria uma associação artificial com o desfecho.
 

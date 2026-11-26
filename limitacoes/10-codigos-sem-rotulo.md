@@ -6,7 +6,7 @@
 
 Alguns códigos aparecem nos dados, mas não estão nas tabelas de decodificação do DATASUS. O código 17 de `ESPEC` foi criado pela Portaria SAES/MS nº 245/2020 ("Estabelecimento Exclusivo UTI SUS"), só para AIH de COVID-19 em estabelecimentos com leitos exclusivos de UTI no SUS, mas não está no `LEITOS.CNV`.
 
-## Por que importa na análise
+## Por que importa na análise epidemiológica
 
 Códigos sem rótulo viram "ignorado" ou somem em agregações, e um grupo específico de internações (aqui, COVID-19 em UTI exclusiva) fica fora das análises sem que se perceba.
 

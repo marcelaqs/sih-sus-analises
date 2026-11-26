@@ -8,7 +8,7 @@ A Portaria GM/MS nº 321/2007 instituiu a Tabela de Procedimentos, Medicamentos,
 
 Ao longo de 2008, outras críticas entraram em vigor aos poucos, como a compatibilidade entre procedimento e ocupação (CBO) do profissional (Portaria SAS/MS nº 472/2008).
 
-## Por que importa na análise
+## Por que importa na análise epidemiológica
 
 - Uma definição de desfecho ou de preditor por código de procedimento não vale dos dois lados de 2008.
 - Séries que atravessam 2008 têm uma quebra de registro, não de perfil das internações.

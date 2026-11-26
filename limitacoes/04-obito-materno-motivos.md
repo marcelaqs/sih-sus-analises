@@ -6,7 +6,7 @@
 
 Desde set/2010, a AIH de parto tem motivos de saída próprios (61 a 67), incluídos pela Portaria SAS/MS nº 384/2010. O óbito da mulher aparece também nos códigos 65 (óbito da gestante e do concepto), 66 e 67 (óbito da mãe com alta ou permanência do recém-nascido), e não só nos códigos de óbito 41 a 43.
 
-## Por que importa na análise
+## Por que importa na análise epidemiológica
 
 Quem define o óbito materno hospitalar só pelos motivos 41 a 43 perde casos, e o desfecho fica subestimado justamente na AIH de parto.
 
