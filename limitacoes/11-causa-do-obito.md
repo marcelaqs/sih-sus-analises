@@ -4,7 +4,7 @@
 
 ## O que acontece
 
-A Portaria SAS/MS nº 1.324/2014 (hoje no art. 308 da Portaria de Consolidação SAES/MS nº 1/2022) excluiu do layout da AIH os campos de causa da morte. Desde 2015, `CID_MORTE` e `CID_ASSO` vêm `0000` em todas as AIH, inclusive nas de óbito.
+A Portaria nº 718/2006 tornou obrigatória a CID da causa de morte na AIH. A Portaria SAS/MS nº 1.324/2014 (hoje no art. 308 da Portaria de Consolidação SAES/MS nº 1/2022) excluiu do layout da AIH os campos de causa da morte. Desde 2015, `CID_MORTE` e `CID_ASSO` vêm `0000` em todas as AIH, inclusive nas de óbito.
 
 ## Por que importa para predição
 
@@ -18,4 +18,4 @@ A Portaria SAS/MS nº 1.324/2014 (hoje no art. 308 da Portaria de Consolidação
 
 ## Fonte
 
-Portaria SAS/MS nº 1.324/2014; Portaria de Consolidação SAES/MS nº 1/2022, art. 308; conferência em arquivos RD de São Paulo e Roraima (revisão do omnisus).
+Portaria nº 718/2006; Portaria SAS/MS nº 1.324/2014; Portaria de Consolidação SAES/MS nº 1/2022, art. 308; conferência em arquivos RD de São Paulo e Roraima (revisão do omnisus).

@@ -1,4 +1,4 @@
-# Armadilhas
+# Limitações
 
 Cada nota segue o mesmo formato:
 

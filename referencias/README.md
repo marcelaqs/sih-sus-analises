@@ -2,6 +2,8 @@
 
 ## Oficiais
 
+Portal do SIH no DATASUS: [sihd.datasus.gov.br](http://sihd.datasus.gov.br/documentos/documentos.php), com documentos do SIHD2 e do SISAIH01, notas técnicas e portarias antigas (até 2010). Substitui as páginas antigas do DATASUS como ponto de partida.
+
 Links e SHA-256 do registro de fontes do [omnisus](https://github.com/marcelaqs/omnisus).
 
 | Documento | Edição | Link | SHA-256 (início) |
