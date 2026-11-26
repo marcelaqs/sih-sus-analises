@@ -8,7 +8,7 @@ Algumas tabelas de códigos foram trocadas ao longo dos anos, e o mesmo código 
 
 | Campo | Períodos |
 | --- | --- |
-| `COBRANCA` (motivo de saída) | Três tabelas: até 2007; 2008 a ago/2010; desde set/2010. O 51 era óbito sem necropsia até 2007 e passa a ser encerramento administrativo em 2008. Desde set/2010 entram os códigos 61 a 67, só para AIH de parto. |
+| `COBRANCA` (motivo de saída) | Três tabelas: até 2007 ("Motivo de Cobrança"); 2008 a ago/2010 ("Motivo de Saída/Permanência", Portaria SAS/MS nº 719/2007, art. 5º); desde set/2010. O 51 era óbito sem necropsia até 2007 e passa a ser encerramento administrativo em 2008. Desde set/2010 entram os códigos 61 a 67, só para AIH de parto. |
 | `HOMONIMO` | Muda de sentido em ago/2015 (Nota Técnica SIHD2 nº 001/2015). |
 | `ESPEC` (especialidade do leito) | O 09 era psiquiatria em hospital-dia em 2007; hoje é leito-dia cirúrgico. |
 
@@ -24,4 +24,4 @@ Algumas tabelas de códigos foram trocadas ao longo dos anos, e o mesmo código 
 
 ## Fonte
 
-Nota Técnica SIHD2 nº 001/2015; Manual Técnico Operacional do SIH; Ipea (2019), p. 136.
+Portaria SAS/MS nº 719/2007, arts. 2º e 5º; Nota Técnica SIHD2 nº 001/2015; Manual Técnico Operacional do SIH; Ipea (2019), p. 136.

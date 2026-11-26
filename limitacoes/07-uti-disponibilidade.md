@@ -15,7 +15,7 @@ Os campos de UTI registram diárias de UTI cobradas. Só há cobrança quando o 
 
 - Não usar a UTI isoladamente como critério de gravidade.
 - Avaliar o desempenho do modelo por tipo de estabelecimento e por região.
-- Atenção aos tipos: a UTI tipo I (códigos 74 e 77) foi reclassificada como Unidade de Cuidados Intermediários em 2019, mas o código 74 continua aparecendo no RD. A UCI adulto e pediátrica não tem campo no RD: `UTI_INT_TO` e `MARCA_UCI` só cobrem UCI neonatal.
+- Atenção aos tipos: a UTI tipo I (códigos 74 e 77) foi reclassificada como Unidade de Cuidados Intermediários em 2019, mas o código 74 continua aparecendo no RD. A Portaria SAS/MS nº 298/2019 também excluiu da tabela as diárias de UTI I e criou diárias próprias de UCI, que não aparecem nos campos de UTI do RD. A UCI adulto e pediátrica não tem campo no RD: `UTI_INT_TO` e `MARCA_UCI` só cobrem UCI neonatal.
 
 ## Fonte
 
