@@ -4,7 +4,7 @@
 
 ## O que acontece
 
-Cada linha do arquivo RD é uma AIH, que é um documento de cobrança. Uma mesma internação pode gerar mais de uma AIH (por exemplo, AIH de continuação, `IDENT` = 5, em internações longas), e a mesma pessoa pode ter várias internações. O RD não traz identificador da pessoa.
+Cada linha do arquivo RD é uma AIH, que é um documento de cobrança. Uma mesma internação pode gerar mais de uma AIH (por exemplo, AIH de continuação, `IDENT` = 5, em internações longas), e a mesma pessoa pode ter várias internações. O RD não traz identificador da pessoa. O número do Cartão Nacional de Saúde (CNS) passou a ser exigido aos poucos a partir de 2004 (Portaria SAS/MS nº 389/2004), mas não é divulgado nos arquivos públicos.
 
 ## Por que importa para predição
 
@@ -20,4 +20,4 @@ Cada linha do arquivo RD é uma AIH, que é um documento de cobrança. Uma mesma
 
 ## Fonte
 
-Manual Técnico Operacional do SIH (ver [`../referencias/`](../referencias/)).
+Manual Técnico Operacional do SIH (ver [`../referencias/`](../referencias/)); Portaria SAS/MS nº 389/2004.

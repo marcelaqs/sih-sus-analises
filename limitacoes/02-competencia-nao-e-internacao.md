@@ -4,7 +4,7 @@
 
 ## O que acontece
 
-Os arquivos do DATASUS são organizados por competência, o mês de processamento da cobrança. Uma AIH pode ser apresentada meses depois da alta. Na AIH de continuação (`IDENT` = 5), `DT_INTER` repete a data da primeira AIH, então datas antigas em competências recentes são esperadas.
+Os arquivos do DATASUS são organizados por competência, o mês de processamento da cobrança. Uma AIH pode ser apresentada meses depois da alta: desde a Portaria GM/MS nº 321/2007, o prazo de apresentação da produção hospitalar é de até três competências depois do atendimento. Os gestores alimentam mensalmente os bancos nacionais (Portaria GM/MS nº 3.462/2010). Na AIH de continuação (`IDENT` = 5), `DT_INTER` repete a data da primeira AIH, então datas antigas em competências recentes são esperadas.
 
 ## Por que importa para predição
 
@@ -20,4 +20,4 @@ Os arquivos do DATASUS são organizados por competência, o mês de processament
 
 ## Fonte
 
-Manual Técnico Operacional do SIH, p. 8 (edição a registrar em [`../referencias/`](../referencias/)).
+Manual Técnico Operacional do SIH, set/2012, p. 8; Portarias GM/MS nº 321/2007 e nº 3.462/2010 (ver [`../normas/`](../normas/)).

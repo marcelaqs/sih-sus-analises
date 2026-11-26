@@ -35,6 +35,7 @@ Este repositório reúne essas limitações, com a fonte oficial de cada uma, co
 | 13 | [Diárias de acompanhante não mostram a presença do acompanhante](limitacoes/13-diarias-acompanhante.md) | `DIAR_ACOM` |
 | 14 | [Diárias cobradas não são tempo de permanência](limitacoes/14-diarias-nao-sao-permanencia.md) | `QT_DIARIAS`, `DIAS_PERM` |
 | 15 | [Diagnóstico sem crítica de compatibilidade com o procedimento](limitacoes/15-diagnostico-sem-critica.md) | `DIAG_PRINC`, `PROC_REA` |
+| 16 | [Tabela de procedimentos muda em 2008](limitacoes/16-tabela-procedimentos-2008.md) | `PROC_REA`, `PROC_SOLIC` |
 
 ## Relação com o omnisus
 
