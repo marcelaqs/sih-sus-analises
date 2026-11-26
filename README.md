@@ -30,6 +30,10 @@ Este repositório reúne essas armadilhas, com a fonte oficial de cada uma, como
 | 08 | [Procedimento realizado é o faturado](armadilhas/08-procedimento-faturado.md) | `PROC_REA` |
 | 09 | [Campos sempre vazios em internações obstétricas](armadilhas/09-campos-vazios-obstetricia.md) | `VAL_SANGUE`, `VAL_UCI`, `INFEHOSP`, `GESTRISCO`, `NUM_FILHOS` |
 | 10 | [Códigos sem rótulo nas tabelas oficiais](armadilhas/10-codigos-sem-rotulo.md) | `ESPEC` |
+| 11 | [Causa do óbito não está no SIH](armadilhas/11-causa-do-obito.md) | `CID_MORTE`, `CID_ASSO` |
+| 12 | [Raça/cor muda de regra no tempo](armadilhas/12-raca-cor-no-tempo.md) | `RACA_COR` |
+| 13 | [Diárias de acompanhante não mostram a presença do acompanhante](armadilhas/13-diarias-acompanhante.md) | `DIAR_ACOM` |
+| 14 | [Diárias cobradas não são tempo de permanência](armadilhas/14-diarias-nao-sao-permanencia.md) | `QT_DIARIAS`, `DIAS_PERM` |
 
 ## Relação com o omnisus
 

@@ -2,11 +2,21 @@
 
 ## Oficiais
 
-- Ministério da Saúde. *Manual Técnico Operacional do Sistema de Informação Hospitalar (SIH)*. Edições de 2010, 2012, 2013, 2015 e 2017.
-- DATASUS. *Informe Técnico SIH/SUS*, 2012-03 e 2016-03 (leiaute dos arquivos).
-- DATASUS. *Dicionário de Dados – AIH*, atualizado em 02/05/2016.
-- DATASUS. *Layout do arquivo reduzida* (`Layout_REDUZIDA.pdf`).
-- DATASUS. Pacote `TAB_SIH.zip` (arquivos DEF e CNV do TabWin).
+Links e SHA-256 do registro de fontes do [omnisus](https://github.com/marcelaqs/omnisus).
+
+| Documento | Edição | Link | SHA-256 (início) |
+| --- | --- | --- | --- |
+| Manual Técnico Operacional do SIH/SUS | set/2012 | [BVS-MS](https://bvsms.saude.gov.br/bvs/publicacoes/manual_tecnico_sistema_informacao_hospitalar_sus.pdf) | `7429b011ee2a` |
+| Informe Técnico SIH/SUS (`IT_SIHSUS_1603.pdf`) | mar/2016 | [FTP DATASUS](ftp://ftp.datasus.gov.br/dissemin/publicos/SIHSUS/200801_/Doc/IT_SIHSUS_1603.pdf) | `1e89d5f2cc41` |
+| Dicionário de Dados – AIH | 02/05/2016 | [FTP DATASUS](ftp://ftp2.datasus.gov.br/public/sistemas/dsweb/SIHD/Manuais/dicionario_de_dados_AIH.pdf) | `f70974716de8` |
+| Layout do arquivo reduzida (`Layout_REDUZIDA.pdf`) | | [FTP DATASUS](ftp://ftp2.datasus.gov.br/public/sistemas/dsweb/SIHD/Manuais/Layout_REDUZIDA.pdf) | `f6084d22de30` |
+| Layout do SISAIH01 | competência set/2015 | [FTP DATASUS](ftp://ftp2.datasus.gov.br/public/sistemas/dsweb/SIHD/Manuais/Layout_do_SISAIH01_para_CMPT_201509.zip) | `af543b2b2c9b` |
+| Pacote `TAB_SIH.zip` (DEF e CNV do TabWin) | 15/11/2026 | [FTP DATASUS](ftp://ftp.datasus.gov.br/dissemin/publicos/SIHSUS/200801_/Auxiliar/TAB_SIH.zip) | `21e42384645a` |
+
+Também usados na revisão, ainda sem link registrado:
+
+- Manual Técnico Operacional do SIH, edições de 2010, 2013, 2015 e 2017.
+- DATASUS. *Informe Técnico SIH/SUS* 2012-03.
 - Ministério da Saúde, DENASUS. *Auditoria no SUS: noções básicas sobre sistemas de informação*. 2004.
 
 ## Secundárias
@@ -17,4 +27,4 @@
 
 ## Dicionário
 
-- [omnisus](https://github.com/raphaelfh/omnisus): dicionário do RD em `src/omnisus/data/dicionarios/sih_aih_reduzida.yaml` e registro de fontes em `sources/registry.json`.
+- [omnisus](https://github.com/raphaelfh/omnisus) (fork da revisão: [marcelaqs/omnisus](https://github.com/marcelaqs/omnisus)): dicionário do RD em `src/omnisus/data/dicionarios/sih_aih_reduzida.yaml` e registro de fontes em `sources/registry.json`.

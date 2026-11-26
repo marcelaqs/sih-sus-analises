@@ -13,8 +13,8 @@ Desfechos ou preditores ligados a violência, acidentes e outras causas externas
 ## Como lidar
 
 - Buscar causas externas nos diagnósticos secundários.
-- **A confirmar:** a mudança de 2015 nos campos de diagnóstico secundário e a cobertura de `DIAGSEC1` a `DIAGSEC9` por período.
+- Os campos `DIAGSEC1` a `DIAGSEC9` entraram com a Portaria SAS/MS nº 1.324/2014; antes dela, buscar no `DIAG_SECUN`.
 
 ## Fonte
 
-Manual Técnico Operacional do SIH.
+Manual Técnico Operacional do SIH; Portaria SAS/MS nº 1.324/2014 (ver [`../normas/`](../normas/)).
