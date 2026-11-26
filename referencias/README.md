@@ -41,6 +41,7 @@ Também usados na revisão, ainda sem link registrado:
 
 - Ministério da Saúde, Departamento Nacional de Auditoria do SUS (DENASUS). *Auditoria no SUS: noções básicas sobre sistemas de informação*. 2. ed. rev. Brasília: Ministério da Saúde; 2004. 112 p. (Série A. Normas e Manuais Técnicos). BVS-MS, em duas partes: [parte 1](https://bvsms.saude.gov.br/bvs/publicacoes/auditoria_sus2004_1.pdf) e [parte 2](https://bvsms.saude.gov.br/bvs/publicacoes/auditoria_sus2004_2.pdf).
 - Ministério da Saúde, DenaSUS. *Manual de Auditoria Interna do SUS*. 1. ed. Brasília: Ministério da Saúde; 2026. ISBN 978-65-5993-997-8. [PDF](https://www.gov.br/saude/pt-br/composicao/denasus/publicacoes/manual-de-auditoria-interna-do-sus.pdf/@@download/file). Governança, riscos e controles internos na auditoria do SUS.
+- Ministério da Saúde, DenaSUS, CGSNA. *Auditoria interna do Sistema Único de Saúde: conceitos e pressupostos*. 1. ed. Brasília: Ministério da Saúde; 2024. Versão digital, licença CC BY-NC-SA 4.0. Link oficial a registrar; SHA-256 da cópia: `cc0ec4307ef9`.
 
 ## Secundárias
 
