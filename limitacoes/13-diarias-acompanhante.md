@@ -4,7 +4,7 @@
 
 ## O que acontece
 
-`DIAR_ACOM` conta as diárias de acompanhante cobradas. A Portaria GM/MS nº 2.418/2005 regulamenta o acompanhante da mulher no trabalho de parto, parto e pós-parto imediato (Lei nº 11.108/2005) e autoriza a cobrança dessas diárias, mas a cobrança depende de formalização pelo gestor.
+`DIAR_ACOM` conta as diárias de acompanhante cobradas. A Portaria GM/MS nº 2.418/2005 regulamenta o acompanhante da mulher no trabalho de parto, parto e pós-parto imediato (Lei nº 11.108/2005) e autoriza a cobrança dessas diárias, mas a cobrança depende de formalização pelo gestor. A regra está hoje no art. 92 da Portaria de Consolidação GM/MS nº 3/2017, que, com a Lei nº 14.737/2023 e a Portaria GM/MS nº 5.350/2024, estende o direito a acompanhante a admissão, internação, alta, consultas e exames.
 
 ## Por que importa para predição
 
@@ -17,4 +17,4 @@ Um `DIAR_ACOM` igual a zero não mostra que a mulher ficou sem acompanhante. Usa
 
 ## Fonte
 
-Informe Técnico SIH 2016-03, p. 2; Portaria GM/MS nº 2.418/2005.
+Informe Técnico SIH 2016-03, p. 2; Portaria GM/MS nº 2.418/2005; Portaria de Consolidação GM/MS nº 3/2017, art. 92.

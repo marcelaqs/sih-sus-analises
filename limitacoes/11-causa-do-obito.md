@@ -4,7 +4,7 @@
 
 ## O que acontece
 
-A Portaria SAS/MS nº 718/2006 tornou obrigatória a CID da causa da morte na AIH quando o motivo de saída é óbito, a partir da competência set/2006. A Portaria SAS/MS nº 1.324/2014 (hoje no art. 308 da Portaria de Consolidação SAES/MS nº 1/2022) excluiu do layout da AIH os campos "Diagnóstico da Causa Morte" e "Diagnóstico Causas Complementares", com efeitos a partir de jan/2015. Desde 2015, `CID_MORTE` e `CID_ASSO` vêm `0000` em todas as AIH, inclusive nas de óbito.
+A Portaria SAS/MS nº 718/2006 tornou obrigatória a CID da causa da morte na AIH quando o motivo de saída é óbito, a partir da competência set/2006. A Portaria SAS/MS nº 1.324/2014 (hoje no art. 308 da Portaria de Consolidação SAES/MS nº 1/2022) excluiu do layout da AIH os campos "Diagnóstico da Causa Morte" e "Diagnóstico Causas Complementares", com efeitos a partir de jan/2015. A Portaria de Consolidação mantém as duas regras no texto: o art. 298 (origem na 718/2006) ainda diz que a CID da causa da morte é obrigatória, e o art. 308 (origem na 1.324/2014) exclui o campo. Nos dados, vale a exclusão: desde 2015, `CID_MORTE` e `CID_ASSO` vêm `0000` em todas as AIH, inclusive nas de óbito.
 
 ## Por que importa para predição
 
@@ -19,4 +19,4 @@ A Portaria SAS/MS nº 718/2006 tornou obrigatória a CID da causa da morte na AI
 
 ## Fonte
 
-Portaria SAS/MS nº 718/2006; Portaria SAS/MS nº 1.324/2014; Portaria de Consolidação SAES/MS nº 1/2022, art. 308; conferência em arquivos RD de São Paulo e Roraima (revisão do omnisus).
+Portaria de Consolidação SAES/MS nº 1/2022, arts. 298 e 308; Portaria SAS/MS nº 718/2006; Portaria SAS/MS nº 1.324/2014; Portaria de Consolidação SAES/MS nº 1/2022, art. 308; conferência em arquivos RD de São Paulo e Roraima (revisão do omnisus).
