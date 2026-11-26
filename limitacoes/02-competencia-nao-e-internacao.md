@@ -4,7 +4,7 @@
 
 ## O que acontece
 
-Os arquivos do DATASUS são organizados por competência, o mês de processamento da cobrança. Uma AIH pode ser apresentada meses depois da alta. Pela regra em vigor, o mês de produção é o mês da alta; o SIH aceita AIH com alta de até 4 meses antes do mês de processamento, e AIH bloqueadas ou rejeitadas podem ser reapresentadas em até 6 meses da alta (Portaria SAS/MS nº 472/2008, hoje arts. 400 e 401 da Portaria de Consolidação SAES/MS nº 1/2022). Os gestores alimentam mensalmente os bancos nacionais (Portaria GM/MS nº 3.462/2010). Na AIH de continuação (`IDENT` = 5), `DT_INTER` repete a data da primeira AIH, então datas antigas em competências recentes são esperadas.
+Os arquivos do DATASUS são organizados por competência, o mês de processamento da cobrança. Uma AIH pode ser apresentada meses depois da alta. Pela regra em vigor, o mês de produção é o mês da alta; o SIH aceita AIH com alta de até 4 meses antes do mês de processamento, e AIH bloqueadas ou rejeitadas podem ser reapresentadas em até 6 meses da alta (Portaria SAS/MS nº 472/2008, hoje arts. 400 e 401 da Portaria de Consolidação SAES/MS nº 1/2022). Os gestores alimentam mensalmente os bancos nacionais, e a remessa de uma competência só é aceita depois de validada a da competência anterior (Portaria GM/MS nº 3.462/2010, hoje arts. 294 e 295 da Portaria de Consolidação GM/MS nº 1/2017). Na AIH de continuação (`IDENT` = 5), `DT_INTER` repete a data da primeira AIH, então datas antigas em competências recentes são esperadas.
 
 ## Por que importa na análise
 

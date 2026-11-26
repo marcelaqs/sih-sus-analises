@@ -26,9 +26,10 @@ Boa parte das portarias antigas está hoje reunida em portarias de consolidaçã
 | --- | --- |
 | [PRC SAES/MS nº 1/2022](https://bvsms.saude.gov.br/bvs/saudelegis/saes/2022/prc0001_31_03_2022_comp.html) | Regulamento da AIH (arts. 291 e seguintes): 718/2006 (art. 298), 1.324/2014 (arts. 308 a 312). SIA e SIH (arts. 393 e seguintes): 472/2008 (arts. 400 a 402) |
 | [PRC GM/MS nº 3/2017](https://bvsms.saude.gov.br/bvs/saudelegis/gm/2017/prc0003_03_10_2017_comp.html) | Acompanhante no parto: 2.418/2005 (art. 92) |
-| [PRC GM/MS nº 2/2017](https://bvsms.saude.gov.br/bvs/saudelegis/gm/2017/prc0002_03_10_2017.html) | Nenhuma das normas desta tabela |
+| [PRC GM/MS nº 2/2017](https://bvsms.saude.gov.br/bvs/saudelegis/gm/2017/prc0002_03_10_2017.html) | Causa externa na AIH desde 1998, pela Portaria nº 142/1997 (Anexo VII); acompanhante de pacientes com mais de 60 anos, 280/1999 (Anexo 2 do Anexo XI) |
+| [PRC GM/MS nº 1/2017](https://bvsms.saude.gov.br/bvs/saudelegis/gm/2017/prc0001_03_10_2017.html) | Alimentação dos bancos nacionais: 3.462/2010 (arts. 293 e seguintes) |
 
-Não aparecem nessas três: as normas de raça/cor e etnia (719/2007, 508/2010), a 1.134/2014 (CADSUS), as de UTI (298/2019, 1.202/2023, 3.511/2025), a 245/2020, a 389/2004, a 321/2007, a 1.541/2007 e a 3.462/2010. As portarias do Gabinete do Ministro podem estar em outras consolidações de 2017 (por exemplo, a nº 1 ou a nº 6), ainda não conferidas.
+Não aparecem nessas três: as normas de raça/cor e etnia (719/2007, 508/2010), a 1.134/2014 (CADSUS), as de UTI (298/2019, 1.202/2023, 3.511/2025), a 245/2020, a 389/2004, a 321/2007 e a 1.541/2007. A 389/2004 e a 321/2007 também não estão na PRC GM/MS nº 1/2017.
 
 ## Como acrescentar uma norma
 

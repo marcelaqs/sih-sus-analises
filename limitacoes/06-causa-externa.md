@@ -4,7 +4,7 @@
 
 ## O que acontece
 
-Em internações por lesões e envenenamentos (capítulo XIX da CID-10), o diagnóstico principal registra a lesão, e a causa externa (capítulo XX, códigos V01 a Y98) vai no primeiro campo de CID secundário. Nos politraumatizados, as demais lesões vão nos outros campos de CID secundário.
+O tipo de causa externa só passou a ser codificado na AIH em 1998, pela Portaria nº 142/1997; até 1997, a AIH registrava só a natureza da lesão (Portaria de Consolidação GM/MS nº 2/2017, Anexo VII). Em internações por lesões e envenenamentos (capítulo XIX da CID-10), o diagnóstico principal registra a lesão, e a causa externa (capítulo XX, códigos V01 a Y98) vai no primeiro campo de CID secundário. Nos politraumatizados, as demais lesões vão nos outros campos de CID secundário.
 
 O caráter de atendimento também tem códigos para acidentes e lesões (03 a 06), definidos pela Portaria SAS/MS nº 719/2007, art. 4º. Na conferência de arquivos de São Paulo (revisão do omnisus), esses códigos só aparecem com diagnóstico principal S ou T, mas a maioria das AIH com S ou T traz caráter 01 (eletivo) ou 02 (urgência).
 
@@ -14,10 +14,11 @@ Desfechos ou preditores ligados a violência, acidentes e outras causas externas
 
 ## Como lidar
 
+- Começar séries de causa externa no SIH em 1998.
 - Buscar causas externas nos diagnósticos secundários.
 - Não usar o caráter de atendimento 03 a 06 como marcador de causa externa: ele deixa de fora a maior parte dos casos.
 - Os campos de CID secundário (`DIAGSEC1` em diante) entraram com a Portaria SAS/MS nº 1.324/2014, com efeitos a partir de jan/2015; antes, buscar no `DIAG_SECUN`.
 
 ## Fonte
 
-Manual Técnico Operacional do SIH; Portaria SAS/MS nº 1.324/2014, art. 3º, § 2º (ver [`../normas/`](../normas/)).
+Portaria de Consolidação GM/MS nº 2/2017, Anexo VII; Manual Técnico Operacional do SIH; Portaria SAS/MS nº 1.324/2014, art. 3º, § 2º (ver [`../normas/`](../normas/)).
