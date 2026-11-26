@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+__marimo__/
+
+# Dados: microdados do DATASUS não entram no repositório
+dados/
+*.dbc
+*.dbf
+*.parquet
+*.csv.gz
+
+# Sistema
+.DS_Store
+Thumbs.db

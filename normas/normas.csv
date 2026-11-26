@@ -1,0 +1,3 @@
+id,tipo,numero,data,orgao,assunto,situacao,alterada_por,publicacao,link_oficial,arquivo_local,sha256,armadilhas
+portaria-saes-245-2020,Portaria,245/2020,2020-03-24,SAES/MS,"Inclui o código 17 (Estabelecimento Exclusivo UTI SUS) na Tabela de Especialidade da AIH, para AIH de COVID-19",a confirmar,,"DOU 30/04/2020, Seção 1, p. 90; republicada no Saúde Legis em 15/06/2020",,,80babfa3…b6dd (completar),10
+nt-sihd2-001-2015,Nota Técnica,SIHD2 001/2015,2015-08-25,DATASUS-RJ,Mudança no campo HOMONIMO a partir de ago/2015,a confirmar,,,,,,03
